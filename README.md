@@ -3,6 +3,10 @@ Nested forms implemented in ReactJS
 
 Original Idea of the form is taken from here: http://bootsnipp.com/snippets/featured/dynamic-sortable-tables
 
+**Demo**
+
+http://jsbin.com/vigoto/edit?html,js,output
+
 Feel free to clone and modify it.
 
 **Try it on Local ?**

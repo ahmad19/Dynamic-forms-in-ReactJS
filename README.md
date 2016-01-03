@@ -1,5 +1,5 @@
-# Nested-forms-in-ReactJS
-Nested forms implemented in ReactJS
+# Dynamic-forms-in-ReactJS
+Dynamic forms implemented in ReactJS
 
 Original Idea of the form is taken from here: http://bootsnipp.com/snippets/featured/dynamic-sortable-tables
 

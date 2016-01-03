@@ -12,3 +12,8 @@ Feel free to clone and modify it.
 **Try it on Local ?**
 
 Clone it and run `ruby server.rb`
+
+**TODO**
+1. Form builder 
+2. Validations
+3. Feel free to add here if you want !! 
